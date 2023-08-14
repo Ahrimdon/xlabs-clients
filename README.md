@@ -39,9 +39,6 @@ Clone the Git repository or download as ZIP.
     ```
     git clone https://github.com/Ahrimdon/xlabs-clients.git
     ```
-    
-  ***OR***
-
 - **Download ZIP**
   - Click on the green button at the top of the repo labeled `Code`
   - Click `Download ZIP`
@@ -55,7 +52,7 @@ Clone the Git repository or download as ZIP.
 
 ### Clients
 
-1. Move the the folder contents of the desired client into your game folder.
+1. Place the the folder contents of the desired client into your game folder.
 2. Launch the executable.
    > **Note**: The executable and any accompanying folders should be in the base game directory.
 
